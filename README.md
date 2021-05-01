@@ -31,3 +31,7 @@ Info about NFT and cryptoassets
 
  - [hicetnunc](https://www.hicetnunc.xyz/)
  - [Kalamint](https://kalamint.io/)
+
+## Collectives and Curators
+
+ - [DiverseNFT](http://www.diversenft.art/)
