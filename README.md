@@ -14,9 +14,19 @@ Info about NFT and cryptoassets
 
 ### Eos
 
- - [eos.atomichub.io](https://eos.atomichub.io/)
+ - [AtomicHub EOS](https://eos.atomichub.io/)
 
 ### WAX
 
- - [waxplorer.com](https://waxplorer.com)
- - [wax.atomichub.io](https://wax.atomichub.io/)
+ - [WaxExplorer](https://waxplorer.com)
+ - [AtomicHub WAX](https://wax.atomichub.io/)
+
+
+### Kusama
+
+ - [Kodadot](https://nft.kodadot.xyz/)
+
+### Tezos
+
+ - [hicetnunc](https://www.hicetnunc.xyz/)
+ - [Kalamint](https://kalamint.io/)
