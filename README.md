@@ -35,6 +35,7 @@ Info about NFT and cryptoassets
 ### Stellar
 
  - [Livemint](https://litemint.com/)
+ - [StellarNFT](https://stellarnft.com/assets)
 
 ## Collectives and Curators
 
