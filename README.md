@@ -37,6 +37,10 @@ Info about NFT and cryptoassets
  - [Livemint](https://litemint.com/)
  - [StellarNFT](https://stellarnft.com/assets)
 
+### Telos
+
+- [AreaxNFT](https://areaxnft.com/)
+
 ## Collectives and Curators
 
  - [DiverseNFT](http://www.diversenft.art/)
